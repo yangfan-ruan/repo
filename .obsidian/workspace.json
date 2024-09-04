@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "82e4f49a42832259",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa8fcdecc791684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0f8070292c45386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/《Google 开源项目风格指南》/3. 类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "708c32d0b0771c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/《Google 开源项目风格指南》/0. readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f8e21cb2c6431a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "511d21ba36e5b082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "638df705a767a32e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97c85f8c38571e09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8805e8e77ce10fa7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "4bd26aa7b476167d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1bf95ffebd85ad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f767937b66973ab2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/《Google 开源项目风格指南》/0. readme.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2a232e83ec6eee82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books/《Google 开源项目风格指南》/0. readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "025561aed290f538",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78b159b063fd51bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books/《Google 开源项目风格指南》/0. readme.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 739.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "708c32d0b0771c9c",
+  "lastOpenFiles": [
+    "books/《Google 开源项目风格指南》/3. 类.md",
+    "books/《Google 开源项目风格指南》/7. 命名约定(done).md",
+    "assets/More Effective C++中文版35个改善编程与设计的有效方法 ([美] Scott Meyers 侯捷 译) (Z-Library).pdf",
+    "assets/zh-google-styleguide-20240623.pdf",
+    "assets/Effective C++：改善程序与设计的55个具体做法（中文第三版） (Scott Meyers) (Z-Library).epub",
+    "books/《Google 开源项目风格指南》/未命名 1.md",
+    "books/Effective C++：改善程序与设计的55个具体做法（中文第三版） (Scott Meyers) (Z-Library).epub",
+    "Effective C++：改善程序与设计的55个具体做法（中文第三版） (Scott Meyers) (Z-Library).epub",
+    "More Effective C++中文版35个改善编程与设计的有效方法 ([美] Scott Meyers 侯捷 译) (Z-Library).pdf",
+    "books/《Google 开源项目风格指南》/0. readme.md",
+    "books",
+    "assets",
+    "zh-google-styleguide-20240623.pdf",
+    "命名.md",
+    "未命名 1.md",
+    "未命名.md",
+    "2024-09-03.md",
+    "命名  （描述性，少缩写）.md",
+    "未命名.canvas",
+    "Drawing 2024-09-03 11.20.59.excalidraw.md",
+    "未命名 2.md",
+    "未命名 3.md",
+    "2024-09-02.md",
+    "Mind 2024-09-02 10.02.59.mindmap.md",
+    "命名规范.xmind"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "editor:toggle-comments": [],
+  "code-block-from-selection:e3dea0f5-37f2-4d79-ae58-490af3228069": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "code-block-from-selection:214553d6-b4ac-488a-9807-4ccddedb38c6": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-markmind:Change layout to right": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "obsidian-markmind:Change layout to tree": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}
