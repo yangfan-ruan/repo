@@ -3,5 +3,11 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./assets",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "strictLineBreaks": true,
+  "vimMode": false,
+  "showRibbon": false,
+  "showInlineTitle": false
 }

@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0aa8fcdecc791684",
+        "id": "73821dc46de14f9d",
         "type": "tabs",
         "children": [
           {
-            "id": "f0f8070292c45386",
+            "id": "8a26dfedf28068d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "books/《Google 开源项目风格指南》/3. 类.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "708c32d0b0771c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/《Google 开源项目风格指南》/0. readme.md",
-                "mode": "source",
-                "source": false
+                "file": "books/More Effective C++中文版35个改善编程与设计的有效方法 ([美] Scott Meyers 侯捷 译) (Z-Library).pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,14 +54,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "8805e8e77ce10fa7",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -93,57 +70,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f767937b66973ab2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "books/《Google 开源项目风格指南》/0. readme.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "2a232e83ec6eee82",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "books/《Google 开源项目风格指南》/0. readme.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "025561aed290f538",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "78b159b063fd51bc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/《Google 开源项目风格指南》/0. readme.md"
+                "file": "books/More Effective C++中文版35个改善编程与设计的有效方法 ([美] Scott Meyers 侯捷 译) (Z-Library).pdf"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,33 +89,44 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "708c32d0b0771c9c",
+  "active": "638df705a767a32e",
   "lastOpenFiles": [
-    "books/《Google 开源项目风格指南》/3. 类.md",
+    "software-config/obsidian配置.md",
+    "books/心湖上的倒影：给实修者的指导.丹津·葩默.pdf",
+    "books/《learn-python-in-a-hard-way-main》/command-line/less",
+    "books/《learn-python-in-a-hard-way-main》/command-line/ex15.txt",
+    "books/《learn-python-in-a-hard-way-main》/command-line/ex13.txt",
+    "books/《learn-python-in-a-hard-way-main》/command-line/ex12.txt",
+    "books/《learn-python-in-a-hard-way-main》/command-line/ex.txt",
+    "books/《learn-python-in-a-hard-way-main》/command-line/cat-command.txt",
+    "books/《learn-python-in-a-hard-way-main》/README.md",
+    "books/《learn-python-in-a-hard-way-main》/ex03-calculate.py",
+    "books/《learn-python-in-a-hard-way-main》/ex02-comment.py",
+    "books/《learn-python-in-a-hard-way-main》/ex01-print.py",
+    "books/《learn-python3.5-from-0-main》/README.md",
+    "books/learn-python-in-a-hard-way-main/未命名思维导图.md",
+    "kiln_test/kiln_test/output/temperature_visualization1.png",
+    "重要参数.md",
+    "最终任务形成.md",
+    "books/《编码：隐匿在计算机软硬件背后的语言》/Untitled.md",
+    "books/《编码：隐匿在计算机软硬件背后的语言》/assets/Pasted image 20240921180737.png",
+    "books/《编码：隐匿在计算机软硬件背后的语言》/assets/Pasted image 20240921170504.png",
+    "books/《编码：隐匿在计算机软硬件背后的语言》/assets/Pasted image 20240921160219.png",
+    "books/《编码：隐匿在计算机软硬件背后的语言》/assets/Pasted image 20240921160142.png",
+    "books/《编码：隐匿在计算机软硬件背后的语言》/assets/Pasted image 20240921155255.png",
+    "books/《编码：隐匿在计算机软硬件背后的语言》/assets/Pasted image 20240921152547.png",
+    "books/《编码：隐匿在计算机软硬件背后的语言》/assets/Pasted image 20240921150544.png",
+    "books/《编码：隐匿在计算机软硬件背后的语言》/Untitled 1.md",
     "books/《Google 开源项目风格指南》/7. 命名约定(done).md",
-    "assets/More Effective C++中文版35个改善编程与设计的有效方法 ([美] Scott Meyers 侯捷 译) (Z-Library).pdf",
-    "assets/zh-google-styleguide-20240623.pdf",
-    "assets/Effective C++：改善程序与设计的55个具体做法（中文第三版） (Scott Meyers) (Z-Library).epub",
-    "books/《Google 开源项目风格指南》/未命名 1.md",
-    "books/Effective C++：改善程序与设计的55个具体做法（中文第三版） (Scott Meyers) (Z-Library).epub",
-    "Effective C++：改善程序与设计的55个具体做法（中文第三版） (Scott Meyers) (Z-Library).epub",
-    "More Effective C++中文版35个改善编程与设计的有效方法 ([美] Scott Meyers 侯捷 译) (Z-Library).pdf",
+    "books/《Google 开源项目风格指南》/3. 类.md",
     "books/《Google 开源项目风格指南》/0. readme.md",
-    "books",
-    "assets",
-    "zh-google-styleguide-20240623.pdf",
+    "books/《Google 开源项目风格指南》/未命名 1.md",
     "命名.md",
     "未命名 1.md",
     "未命名.md",
@@ -190,7 +137,6 @@
     "未命名 2.md",
     "未命名 3.md",
     "2024-09-02.md",
-    "Mind 2024-09-02 10.02.59.mindmap.md",
-    "命名规范.xmind"
+    "Mind 2024-09-02 10.02.59.mindmap.md"
   ]
 }

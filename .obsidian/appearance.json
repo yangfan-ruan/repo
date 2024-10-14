@@ -1,5 +1,10 @@
 {
-  "theme": "obsidian",
-  "cssTheme": "Obsidian Nord",
-  "accentColor": "#89a3c2"
+  "theme": "moonstone",
+  "cssTheme": "",
+  "accentColor": "",
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "showViewHeader": false
 }
