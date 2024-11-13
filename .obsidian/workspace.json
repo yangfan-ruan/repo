@@ -11,10 +11,15 @@
             "id": "8a26dfedf28068d1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/More Effective C++中文版35个改善编程与设计的有效方法 ([美] Scott Meyers 侯捷 译) (Z-Library).pdf"
-              }
+                "file": "notes/Archlinux在Vmware虚拟机中安装MacOS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Archlinux在Vmware虚拟机中安装MacOS"
             }
           }
         ]
@@ -37,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -52,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           }
         ]
@@ -75,8 +84,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/More Effective C++中文版35个改善编程与设计的有效方法 ([美] Scott Meyers 侯捷 译) (Z-Library).pdf"
-              }
+                "file": "notes/半小时学习rust.md"
+              },
+              "icon": "lucide-list",
+              "title": "半小时学习rust 的大纲"
             }
           }
         ]
@@ -95,8 +106,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "638df705a767a32e",
+  "active": "8a26dfedf28068d1",
   "lastOpenFiles": [
+    "notes/Arch Linux.md",
+    "notes/半小时学习rust.md",
+    "notes/git&&github.md",
+    "notes/Archlinux在Vmware虚拟机中安装MacOS.md",
+    "books/More Effective C++中文版35个改善编程与设计的有效方法 ([美] Scott Meyers 侯捷 译) (Z-Library).pdf",
     "software-config/obsidian配置.md",
     "books/心湖上的倒影：给实修者的指导.丹津·葩默.pdf",
     "books/《learn-python-in-a-hard-way-main》/command-line/less",
@@ -108,7 +124,6 @@
     "books/《learn-python-in-a-hard-way-main》/README.md",
     "books/《learn-python-in-a-hard-way-main》/ex03-calculate.py",
     "books/《learn-python-in-a-hard-way-main》/ex02-comment.py",
-    "books/《learn-python-in-a-hard-way-main》/ex01-print.py",
     "books/《learn-python3.5-from-0-main》/README.md",
     "books/learn-python-in-a-hard-way-main/未命名思维导图.md",
     "kiln_test/kiln_test/output/temperature_visualization1.png",

@@ -1,10 +1,11 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "",
+  "theme": "system",
+  "cssTheme": "Blue Topaz",
   "accentColor": "",
   "textFontFamily": "Consolas",
   "monospaceFontFamily": "Consolas",
   "baseFontSize": 16,
   "nativeMenus": false,
-  "showViewHeader": false
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }

@@ -9,5 +9,14 @@
   "strictLineBreaks": true,
   "vimMode": false,
   "showRibbon": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "tabSize": 2,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
